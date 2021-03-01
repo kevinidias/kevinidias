@@ -12,4 +12,4 @@ Graduated in Analysis and systems development and Specialist in Big Data and Ana
 
 ### Social media
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/kevin-dias-8b2a86203)](https://linkedin.com/in/kevin-dias-8b2a86203)[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kevinidias/)](https://https://www.instagram.com/kevinidias/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/kevin-dias-8b2a86203)](https://linkedin.com/in/kevin-dias-8b2a86203) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kevinidias/)](https://https://www.instagram.com/kevinidias/)
