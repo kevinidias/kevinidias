@@ -18,4 +18,4 @@ Graduated in Analysis and systems development and Specialist in Big Data and Ana
 https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white
 
 
-[![Site Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white&link=https://kevinidias.github.io/))](https://kevinidias.github.io/)
+[![Blog Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white&link=https://kevinidias.github.io/))](https://kevinidias.github.io/)
