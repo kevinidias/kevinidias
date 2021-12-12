@@ -7,7 +7,7 @@ Graduated in Analysis and systems development and Specialist in Big Data and Ana
 - 📍From Rio de Janeiro, Paraíba do sul.
 - 💻Web Developer.
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinidias&show_icons=true&theme=dark&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinidias&show_icons=true&theme=algolia&count_private=true)
 
 
 
